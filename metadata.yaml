@@ -31,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33352
     wikipedia: http://sv.wikipedia.org/wiki/Gustaf_af_Geijerstam
 description: 'Translation of: Boken om lille-bror'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33561#------------------------------13-----------------------
 gutenberg_issued: '2010-08-28'
 gutenberg_type: Text
 identifiers:
